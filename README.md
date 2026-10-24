@@ -13,6 +13,6 @@
 
 Aşağıdaki kartta GitHub'da geçirdiğim tüm yılların toplam istatistiklerini görebilirsin:
 
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=SENIN_KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=kjtasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=kjtasan&layout=compact&theme=tokyonight&hide_border=true)
