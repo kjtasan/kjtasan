@@ -1,16 +1,18 @@
-## Hi there 👋
+# kjtasan glides
 
-<!--
-**kjtasan/kjtasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+şu sıralar aktif olarak larplıyorum
 
-Here are some ideas to get you started:
+### Kullandığım Teknolojiler ve Araçlar
+- **Frontend & Tasarım:** React, TypeScript, HTML Canvas, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Oyun Geliştirme:** Roblox Lua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Toplam GitHub İstatistiklerim
+
+Aşağıdaki kartta GitHub'da geçirdiğim tüm yılların toplam istatistiklerini görebilirsin:
+
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=SENIN_KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true)
